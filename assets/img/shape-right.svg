@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="827px" height="440px" viewBox="0 0 827 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path 4</title>
+    <defs>
+        <linearGradient x1="46.4550328%" y1="37.9374174%" x2="89.4542149%" y2="58.8002997%" id="linearGradient-1">
+            <stop stop-color="#D0ECF8" offset="0%"></stop>
+            <stop stop-color="#99C6DE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-919.000000, -1746.000000)" fill="url(#linearGradient-1)">
+            <path d="M1483.63541,1747.18986 C1401.88821,1750.45893 1131.39847,1788.67671 1050.68453,1807.82556 C1005.93949,1816.67589 1008.28768,1818.75253 998.145911,1838.32375 C988.004144,1857.89498 923.669374,2024.27574 919.368761,2108.4154 C917.967471,2136.09212 919.368761,2135.12848 945.285795,2140.78392 C971.202828,2146.43935 1086.37249,2163.04748 1483.63541,2185.922 C1817.93429,2192.97548 1848.63873,1719.24188 1483.63541,1747.18986 Z" id="Path-4"></path>
+        </g>
+    </g>
+</svg>

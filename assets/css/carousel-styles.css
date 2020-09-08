@@ -1,0 +1,30 @@
+.owl-nav
+{
+    position: absolute;
+    top: 35px;
+    width: 100%;
+    /*z-index: -1;*/
+}
+
+.owl-nav .owl-prev
+{
+   position: absolute;
+    z-index: 10;
+    left: -10%;
+}
+
+.owl-nav .owl-next
+{
+    position: absolute;
+    z-index: 10;
+    right: -10%;
+}
+
+@media screen and (max-width: 500px) {
+
+	.owl-nav .owl-prev,
+	.owl-nav .owl-next
+	{
+		display: none;
+	}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons / Navigation 24px / Grey / Menu Copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-322.000000, -18.000000)">
+            <g id="Icons-/-Navigation-24px-/-Grey-/-Menu-Copy" transform="translate(322.000000, 18.000000)">
+                <g id="Menu">
+                    <rect id="Bounds" x="0" y="0" width="24" height="24"></rect>
+                    <polygon id="Shape" fill="#000000" transform="translate(12.000000, 12.000000) rotate(-45.000000) translate(-12.000000, -12.000000) " points="3 13 21 13 21 11 3 11"></polygon>
+                    <polygon id="Shape" fill="#000000" transform="translate(12.000000, 12.000000) rotate(45.000000) translate(-12.000000, -12.000000) " points="3 13 21 13 21 11 3 11"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

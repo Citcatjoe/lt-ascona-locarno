@@ -1,0 +1,29 @@
+
+/* SHAPE LEFT SECTIONS*/
+section.content:nth-child(odd) .halfpicture .shape-left
+{
+    position: absolute;
+    top: -121px;
+    right: 126px;
+}
+section.content:nth-child(odd) .halfpicture .shape-right
+{
+	display: none;
+}
+
+
+
+
+/* SHAPE RIGHT SECTIONS*/
+section.content:nth-child(even) .halfpicture .shape-right
+{
+    position: absolute;
+    top: -104px;
+    left: 196px;
+}
+section.content:nth-child(even) .halfpicture .shape-left
+{
+	display: none;
+}
+
+
